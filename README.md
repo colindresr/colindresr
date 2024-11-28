@@ -1,6 +1,6 @@
  ## 👋 &nbsp;Hey there! I'm ColindresR 
 
-### 👨🏻‍💻 &nbsp;About Me
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <strong>About Me</strong>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm going to study engineering in science and systems in USAC .\
