@@ -3,10 +3,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+🎓 &nbsp;I'm going to study engineering in science and systems in USAC .\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and others.\
+✍️ &nbsp;In my free time, I like play videogames and study things that interest me .
+⚽ &nbsp;I also like to play sports and exercise.
+🏎️ &nbsp; (I also really like cars)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
