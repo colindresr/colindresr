@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm going to study engineering in science and systems in USAC .\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and others.\
 ✍️ &nbsp;In my free time, I like play videogames and study things that interest me.\
-⚽ &nbsp;I also like to play sports and exercise.\
+⚽ &nbsp;I also like to play sports and exercise.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
