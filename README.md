@@ -35,6 +35,6 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/ricardoadrián-colindresfranco"><img src="https://img.shields.io/badge/-Ricardo%20Colindres-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ricardoadri%C3%A1n-colindresfranco?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bou%2Bza5hjRU%2BjAHRTTowcVQ%3D%3D"><img src="https://img.shields.io/badge/-Ricardo%20Colindres-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 </p>
