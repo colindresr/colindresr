@@ -1,7 +1,7 @@
  ## 👋 &nbsp;Hey there! I'm ColindresR 
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <strong>About Me</strong>
-
+📝 &nbsp; Former student of Fundacion KINAL
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm going to study engineering in science and systems in USAC .\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and others.\
